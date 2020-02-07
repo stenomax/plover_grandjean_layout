@@ -1,0 +1,219 @@
+{
+	"name": "Grandjean layout",
+	"margin": 5.0,
+	"key_width": 30.0,
+	"key_height": 35.0,
+	"keys": [
+		{
+            "name": "S-",
+            "label": "S",
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+            "color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "P-",
+            "label": "P",
+            "x": 1,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "T-",
+            "label": "T",
+            "x": 2,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "*-",
+            "label": "*",
+            "x": 3,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "N-",
+            "label": "N",
+            "x": 4,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "Y-",
+            "label": "Y",
+            "x": 5,
+            "y": 0,
+            "width": 1,
+            "height": 2.3,
+			"is_round_bottom": true,
+			"color": "#ffffff",
+            "color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-O",
+            "label": "O",
+            "x": 6,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },		
+		{
+            "name": "-A",
+            "label": "A",
+            "x": 7,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-I",
+            "label": "I",
+            "x": 8,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-n",
+            "label": "n",
+            "x": 9,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-D",
+            "label": "D",
+            "x": 10,
+            "y": 0,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "K-",
+            "label": "K",
+            "x": 0,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "M-",
+            "label": "M",
+            "x": 1,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "F-",
+            "label": "F",
+            "x": 2,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "R-",
+            "label": "R",
+            "x": 3,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "L-",
+            "label": "L",
+            "x": 4,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-E",
+            "label": "E",
+            "x": 6,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-U",
+            "label": "U",
+            "x": 7,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-l",
+            "label": "l",
+            "x": 8,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-$",
+            "label": "$",
+            "x": 9,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        },
+		{
+            "name": "-C",
+            "label": "C",
+            "x": 10,
+            "y": 1,
+            "width": 1,
+            "height": 1,
+			"color": "#ffffff",
+			"color_pressed": "#bbe3f2"
+        }
+	]
+}	
